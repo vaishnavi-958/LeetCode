@@ -18,6 +18,7 @@
 | [1251-average-selling-price](https://github.com/vaishnavi-958/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vaishnavi-958/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1729-find-followers-count](https://github.com/vaishnavi-958/LeetCode/tree/main/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/vaishnavi-958/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1934-confirmation-rate](https://github.com/vaishnavi-958/LeetCode/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vaishnavi-958/LeetCode/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
