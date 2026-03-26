@@ -7,6 +7,7 @@
 | [0550-game-play-analysis-iv](https://github.com/vaishnavi-958/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/vaishnavi-958/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/vaishnavi-958/LeetCode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0610-triangle-judgement](https://github.com/vaishnavi-958/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/vaishnavi-958/LeetCode/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/vaishnavi-958/LeetCode/tree/main/0620-not-boring-movies/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/vaishnavi-958/LeetCode/tree/main/1045-customers-who-bought-all-products/) | Medium |
