@@ -21,6 +21,7 @@
 | [1193-monthly-transactions-i](https://github.com/vaishnavi-958/LeetCode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/vaishnavi-958/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/vaishnavi-958/LeetCode/tree/main/1251-average-selling-price/) | Easy |
+| [1341-movie-rating](https://github.com/vaishnavi-958/LeetCode/tree/main/1341-movie-rating/) | Medium |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vaishnavi-958/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1729-find-followers-count](https://github.com/vaishnavi-958/LeetCode/tree/main/1729-find-followers-count/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/vaishnavi-958/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
