@@ -22,6 +22,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/vaishnavi-958/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/vaishnavi-958/LeetCode/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/vaishnavi-958/LeetCode/tree/main/1251-average-selling-price/) | Easy |
+| [1321-restaurant-growth](https://github.com/vaishnavi-958/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/vaishnavi-958/LeetCode/tree/main/1341-movie-rating/) | Medium |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vaishnavi-958/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1729-find-followers-count](https://github.com/vaishnavi-958/LeetCode/tree/main/1729-find-followers-count/) | Easy |
