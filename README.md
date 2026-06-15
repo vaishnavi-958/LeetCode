@@ -27,6 +27,7 @@
 | [1251-average-selling-price](https://github.com/vaishnavi-958/LeetCode/tree/main/1251-average-selling-price/) | Easy |
 | [1321-restaurant-growth](https://github.com/vaishnavi-958/LeetCode/tree/main/1321-restaurant-growth/) | Medium |
 | [1341-movie-rating](https://github.com/vaishnavi-958/LeetCode/tree/main/1341-movie-rating/) | Medium |
+| [1527-patients-with-a-condition](https://github.com/vaishnavi-958/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/vaishnavi-958/LeetCode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/vaishnavi-958/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1729-find-followers-count](https://github.com/vaishnavi-958/LeetCode/tree/main/1729-find-followers-count/) | Easy |
