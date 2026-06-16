@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0185-department-top-three-salaries](https://github.com/vaishnavi-958/LeetCode/tree/main/0185-department-top-three-salaries/) | Hard |
+| [0196-delete-duplicate-emails](https://github.com/vaishnavi-958/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/vaishnavi-958/LeetCode/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/vaishnavi-958/LeetCode/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0585-investments-in-2016](https://github.com/vaishnavi-958/LeetCode/tree/main/0585-investments-in-2016/) | Medium |
