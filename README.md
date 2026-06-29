@@ -49,6 +49,7 @@
 | [0027-remove-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,4 +61,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
