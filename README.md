@@ -45,6 +45,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-958/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vaishnavi-958/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -143,5 +144,10 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/vaishnavi-958/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vaishnavi-958/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-958/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0058-length-of-last-word](https://github.com/vaishnavi-958/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vaishnavi-958/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
