@@ -75,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/vaishnavi-958/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi-958/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0189-rotate-array/) | Medium |
+| [0392-is-subsequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +112,7 @@
 | [0055-jump-game](https://github.com/vaishnavi-958/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavi-958/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0392-is-subsequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +157,7 @@
 | [0068-text-justification](https://github.com/vaishnavi-958/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0125-valid-palindrome](https://github.com/vaishnavi-958/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi-958/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0392-is-subsequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
