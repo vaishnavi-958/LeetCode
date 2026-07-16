@@ -58,6 +58,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/vaishnavi-958/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/vaishnavi-958/LeetCode/tree/main/0135-candy/) | Hard |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavi-958/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/vaishnavi-958/LeetCode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -74,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/vaishnavi-958/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi-958/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavi-958/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Sorting
@@ -170,4 +172,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0068-text-justification](https://github.com/vaishnavi-958/LeetCode/tree/main/0068-text-justification/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavi-958/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
