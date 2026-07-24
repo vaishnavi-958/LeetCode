@@ -53,6 +53,7 @@
 | [0036-valid-sudoku](https://github.com/vaishnavi-958/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vaishnavi-958/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0054-spiral-matrix](https://github.com/vaishnavi-958/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/vaishnavi-958/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0068-text-justification](https://github.com/vaishnavi-958/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -187,6 +188,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0054-spiral-matrix](https://github.com/vaishnavi-958/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0068-text-justification](https://github.com/vaishnavi-958/LeetCode/tree/main/0068-text-justification/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -204,4 +206,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/vaishnavi-958/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/vaishnavi-958/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
