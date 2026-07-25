@@ -53,6 +53,7 @@
 | [0036-valid-sudoku](https://github.com/vaishnavi-958/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
 | [0042-trapping-rain-water](https://github.com/vaishnavi-958/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0045-jump-game-ii/) | Medium |
+| [0048-rotate-image](https://github.com/vaishnavi-958/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/vaishnavi-958/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/vaishnavi-958/LeetCode/tree/main/0055-jump-game/) | Medium |
 | [0068-text-justification](https://github.com/vaishnavi-958/LeetCode/tree/main/0068-text-justification/) | Hard |
@@ -116,6 +117,7 @@
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/vaishnavi-958/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vaishnavi-958/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
+| [0048-rotate-image](https://github.com/vaishnavi-958/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vaishnavi-958/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Dynamic Programming
@@ -206,5 +208,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/vaishnavi-958/LeetCode/tree/main/0036-valid-sudoku/) | Medium |
+| [0048-rotate-image](https://github.com/vaishnavi-958/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/vaishnavi-958/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
