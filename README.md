@@ -106,6 +106,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vaishnavi-958/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vaishnavi-958/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/vaishnavi-958/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/vaishnavi-958/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/vaishnavi-958/LeetCode/tree/main/0383-ransom-note/) | Easy |
 ## Divide and Conquer
@@ -183,6 +184,7 @@
 | [0076-minimum-window-substring](https://github.com/vaishnavi-958/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/vaishnavi-958/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi-958/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/vaishnavi-958/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0383-ransom-note](https://github.com/vaishnavi-958/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 ## Trie
