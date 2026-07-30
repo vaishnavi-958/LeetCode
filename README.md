@@ -94,6 +94,7 @@
 | [0015-3sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/vaishnavi-958/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/vaishnavi-958/LeetCode/tree/main/0274-h-index/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -107,6 +108,7 @@
 | [0076-minimum-window-substring](https://github.com/vaishnavi-958/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-958/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/vaishnavi-958/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vaishnavi-958/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/vaishnavi-958/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](https://github.com/vaishnavi-958/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -186,6 +188,7 @@
 | [0125-valid-palindrome](https://github.com/vaishnavi-958/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi-958/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-958/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/vaishnavi-958/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vaishnavi-958/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/vaishnavi-958/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0392-is-subsequence/) | Easy |
