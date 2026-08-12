@@ -58,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/vaishnavi-958/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/vaishnavi-958/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/vaishnavi-958/LeetCode/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/vaishnavi-958/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0068-text-justification](https://github.com/vaishnavi-958/LeetCode/tree/main/0068-text-justification/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/vaishnavi-958/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -99,6 +100,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/vaishnavi-958/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/vaishnavi-958/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/vaishnavi-958/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -249,4 +251,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/vaishnavi-958/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
