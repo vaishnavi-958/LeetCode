@@ -79,6 +79,7 @@
 | [0274-h-index](https://github.com/vaishnavi-958/LeetCode/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/vaishnavi-958/LeetCode/tree/main/0289-game-of-life/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vaishnavi-958/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaishnavi-958/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@
 | [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/vaishnavi-958/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0274-h-index](https://github.com/vaishnavi-958/LeetCode/tree/main/0274-h-index/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaishnavi-958/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0134-gas-station](https://github.com/vaishnavi-958/LeetCode/tree/main/0134-gas-station/) | Medium |
 | [0135-candy](https://github.com/vaishnavi-958/LeetCode/tree/main/0135-candy/) | Hard |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/vaishnavi-958/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
