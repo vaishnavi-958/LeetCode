@@ -188,6 +188,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vaishnavi-958/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/vaishnavi-958/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/vaishnavi-958/LeetCode/tree/main/0071-simplify-path/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@
 | [0049-group-anagrams](https://github.com/vaishnavi-958/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vaishnavi-958/LeetCode/tree/main/0058-length-of-last-word/) | Easy |
 | [0068-text-justification](https://github.com/vaishnavi-958/LeetCode/tree/main/0068-text-justification/) | Hard |
+| [0071-simplify-path](https://github.com/vaishnavi-958/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vaishnavi-958/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/vaishnavi-958/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi-958/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
