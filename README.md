@@ -93,6 +93,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/vaishnavi-958/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/vaishnavi-958/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi-958/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavi-958/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0189-rotate-array/) | Medium |
@@ -122,6 +123,7 @@
 | [0073-set-matrix-zeroes](https://github.com/vaishnavi-958/LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/vaishnavi-958/LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0141-linked-list-cycle](https://github.com/vaishnavi-958/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/vaishnavi-958/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-958/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -262,6 +264,7 @@
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/vaishnavi-958/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/vaishnavi-958/LeetCode/tree/main/0202-happy-number/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -279,4 +282,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0224-basic-calculator](https://github.com/vaishnavi-958/LeetCode/tree/main/0224-basic-calculator/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/vaishnavi-958/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
