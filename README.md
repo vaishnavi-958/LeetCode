@@ -144,6 +144,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/vaishnavi-958/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vaishnavi-958/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/vaishnavi-958/LeetCode/tree/main/0048-rotate-image/) | Medium |
@@ -281,9 +282,11 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0224-basic-calculator](https://github.com/vaishnavi-958/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vaishnavi-958/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
