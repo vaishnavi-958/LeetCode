@@ -148,6 +148,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaishnavi-958/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/vaishnavi-958/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/vaishnavi-958/LeetCode/tree/main/0202-happy-number/) | Easy |
+| [0224-basic-calculator](https://github.com/vaishnavi-958/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0380-insert-delete-getrandom-o1](https://github.com/vaishnavi-958/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -194,6 +195,7 @@
 | [0071-simplify-path](https://github.com/vaishnavi-958/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vaishnavi-958/LeetCode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/vaishnavi-958/LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0224-basic-calculator](https://github.com/vaishnavi-958/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -217,6 +219,7 @@
 | [0125-valid-palindrome](https://github.com/vaishnavi-958/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vaishnavi-958/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-958/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0224-basic-calculator](https://github.com/vaishnavi-958/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 | [0242-valid-anagram](https://github.com/vaishnavi-958/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vaishnavi-958/LeetCode/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/vaishnavi-958/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -272,4 +275,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vaishnavi-958/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0224-basic-calculator](https://github.com/vaishnavi-958/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 <!---LeetCode Topics End-->
