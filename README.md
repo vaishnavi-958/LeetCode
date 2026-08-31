@@ -283,10 +283,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/vaishnavi-958/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0224-basic-calculator](https://github.com/vaishnavi-958/LeetCode/tree/main/0224-basic-calculator/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/vaishnavi-958/LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vaishnavi-958/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
