@@ -129,6 +129,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/vaishnavi-958/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/vaishnavi-958/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vaishnavi-958/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/vaishnavi-958/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/vaishnavi-958/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0202-happy-number](https://github.com/vaishnavi-958/LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vaishnavi-958/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -184,6 +185,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/vaishnavi-958/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/vaishnavi-958/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/vaishnavi-958/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
@@ -304,4 +306,9 @@
 | [0092-reverse-linked-list-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/vaishnavi-958/LeetCode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vaishnavi-958/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/vaishnavi-958/LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/vaishnavi-958/LeetCode/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
