@@ -328,6 +328,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vaishnavi-958/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vaishnavi-958/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaishnavi-958/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -337,6 +338,7 @@
 | [0100-same-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaishnavi-958/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
@@ -346,6 +348,7 @@
 | [0100-same-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0112-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
@@ -356,6 +359,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vaishnavi-958/LeetCode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vaishnavi-958/LeetCode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0112-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaishnavi-958/LeetCode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
