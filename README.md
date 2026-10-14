@@ -263,6 +263,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vaishnavi-958/LeetCode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/vaishnavi-958/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -337,6 +338,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vaishnavi-958/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/vaishnavi-958/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -373,6 +375,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vaishnavi-958/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/vaishnavi-958/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -386,4 +389,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vaishnavi-958/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/vaishnavi-958/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
