@@ -338,6 +338,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vaishnavi-958/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/vaishnavi-958/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/vaishnavi-958/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -352,6 +353,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/vaishnavi-958/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -362,6 +364,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/vaishnavi-958/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -377,6 +380,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaishnavi-958/LeetCode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vaishnavi-958/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/vaishnavi-958/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/vaishnavi-958/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/vaishnavi-958/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
