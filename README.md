@@ -344,6 +344,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/vaishnavi-958/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishnavi-958/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -359,6 +360,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/vaishnavi-958/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishnavi-958/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -372,6 +374,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vaishnavi-958/LeetCode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vaishnavi-958/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishnavi-958/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -393,6 +396,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/vaishnavi-958/LeetCode/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishnavi-958/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vaishnavi-958/LeetCode/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -402,6 +406,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/vaishnavi-958/LeetCode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vaishnavi-958/LeetCode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
